@@ -75,5 +75,7 @@ DELETE /api/events/:id → Delete event
 Registrations
 POST /api/registrations/register → Register for event
 GET /api/registrations/event/:eventId → View event registrations
+👩‍💻 Author
 
+Developed by "Ayesha Saeed"
 

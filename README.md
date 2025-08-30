@@ -41,7 +41,7 @@ Frontend/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ayesha-saaed/codealpha_eventregistrationsystem.git
+   git clone https://github.com/your-username/codealpha_eventregistrationsystem.git
 2.Install dependencies for backend:
 
 bash(in terminal)
